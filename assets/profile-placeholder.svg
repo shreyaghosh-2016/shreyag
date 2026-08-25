@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e9e5ff"/><stop offset="1" stop-color="#dceeea"/></linearGradient></defs>
+<rect width="800" height="900" fill="url(#g)"/>
+<circle cx="400" cy="330" r="150" fill="#ffffff" opacity=".92"/>
+<path d="M165 840c20-210 125-315 235-315s215 105 235 315" fill="#ffffff" opacity=".92"/>
+<text x="400" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#5632d7">YOUR</text>
+<text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#5632d7">PHOTO</text>
+<text x="400" y="760" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#667085">Replace assets/profile-placeholder.svg</text>
+</svg>
